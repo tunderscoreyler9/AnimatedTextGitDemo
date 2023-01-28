@@ -3,11 +3,19 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+<<<<<<< HEAD
     background-color: sienna;
 }
 
 h1 {
     font-size: 13rem;
+=======
+    background-color: teal;
+}
+
+h1 {
+    font-size: 16rem;
+>>>>>>> teal-bg
     font-family: 'Times New Roman', Times, serif;
 }
 
