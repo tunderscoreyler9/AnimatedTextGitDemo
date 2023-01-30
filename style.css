@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: teal;
+    background-color: yellow;
 }
 
 h1 {
-    font-size: 13rem;
+    font-size: 18rem;
     font-family: 'Times New Roman', Times, serif;
 }
 
